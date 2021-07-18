@@ -81,10 +81,10 @@ Contém as imagens dos contatos do usuário.
 Clone este repositório em sua máquina:
 
 ```bash
-$ git clone https://github.com/future4code/mu-oz-whatslab1.git
+$ git clone https://github.com/Gremis/clone-whatsapp.git
 ```
 
-cd `mu-oz-whatslab1` e rode:
+cd `clone-whatsapp` e rode:
 
 ```bash
 npm install
